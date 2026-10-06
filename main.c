@@ -1,6 +1,6 @@
 #include <stdio.h>
-
 int main() {
+    while(1){
 
     int number;
     int binary[32];
@@ -22,6 +22,7 @@ int main() {
     }
 
     printf("\n");
-
+      }
     return 0;
-}
+ }
+ 
